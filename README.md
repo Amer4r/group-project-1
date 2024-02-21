@@ -2,7 +2,7 @@
 
 ## Overview
 
-## Dataset
+## Datase
 ### Dataset was taken from the following website:
 - Kaggle
 
@@ -63,6 +63,17 @@ In this comprehensive analysis, we delve into the intricate relationship between
 - Impact of Income on Job Satisfaction: Interestingly, our findings suggest that while income plays a crucial role in employees' decisions to leave, it does not appear to have a substantial impact on overall job satisfaction levels. This nuanced relationship underscores the complexity of factors influencing employee attitudes and underscores the need for a holistic approach to workforce management.
 
 - Relationship Between Income and Employee Attrition: The correlation between monthly income and employee attrition rates is striking. Our analysis indicates a pronounced spike in attrition among individuals earning lower incomes, with a notable decrease in attrition rates as income levels rise. This underscores the pivotal role of income in influencing employee retention strategies and highlights the importance of equitable compensation practices.
+
+
+### Exploring the Relationship Between Job Roles and Job Satisfaction
+
+ - Understanding the intricate relationship between job roles and job satisfaction is crucial as it directly impacts the work environment and employee performance. This analysis delves into whether job roles influence job satisfaction, shedding light on the dynamics between these two critical factors.
+ 
+#### The code for this analysis is in 'jobroles-vs-jobsatisfaction.ipynb' 
+
+  - The analysis, conducted in the Jupyter Notebook file named "jobroles-vs-jobsatisfaction.ipynb," employs various visualization techniques, including pie charts, line charts, and bar graphs. By exploring these visualizations, we aim to uncover insights into the connection between job roles and job satisfaction.
+
+  - Throughout the analysis, it becomes evident that job roles indeed play a significant role in determining job satisfaction levels. Bar graph provide a comprehensive overview of the distribution of job roles within the organization, while line charts showcase average trends in job satisfaction across different roles. Pie Charts offer a detailed comparison of job satisfaction levels across various job roles.
 
 
 ## References 
